@@ -1,1 +1,1 @@
-# github.jts307.io
+# jts307.github.io
