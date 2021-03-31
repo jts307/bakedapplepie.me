@@ -1,3 +1,3 @@
 # Short Assignment 1 
-## author: Jacob Werzinsky
+## Author: Jacob Werzinsky
 ## Domain: bakedapplepie.me
